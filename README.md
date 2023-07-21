@@ -25,3 +25,5 @@ go isntall github.com/joho/godotenv
 clone this repo
 
 If it throws error, use go work init and then go work use . (this initializes the modules)
+
+Enjoy!
